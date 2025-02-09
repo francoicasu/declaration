@@ -71,7 +71,7 @@ export const Main = () => {
 
   const handleYesResponse = () => {
     setCounterNot(0);
-    setSubtitleText("SIII!! Te amo muchooo!!");
+    setSubtitleText("SIII!! Te quiero muchooo!!");
     setImage(intense);
     setBtnNotIsVisible(false);
     setYes(true);
